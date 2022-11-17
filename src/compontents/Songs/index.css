@@ -1,0 +1,23 @@
+.image {
+  height: 95px;
+  width: 125px;
+}
+.button {
+  display: flex;
+  margin: 10px;
+  background-color: transparent;
+  border: none;
+  align-items: top;
+  justify-content: center;
+  align-self: stretch;
+  cursor: pointer;
+}
+button:hover {
+  color: brown;
+}
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  color: blanchedalmond;
+}
